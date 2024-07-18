@@ -1,7 +1,7 @@
 name: dot_navigation_bar_basic_lego
 description: "Dot Navigation Bar Basic Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/dot_navigation_bar_basic_lego
 
 version: 1.0.0
 
